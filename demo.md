@@ -2,7 +2,7 @@ first line used for the pull request test
 
 second!
 
-third, special fo the conflict test
+third
 
 fourth. this is it
 
